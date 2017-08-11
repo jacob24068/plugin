@@ -1,21 +1,21 @@
 {
   "Kodran's Theme": {
     "Colors": {
-      "Background Color": "255,255,255",
-      "Built-in Function Color": "255,255,255",
-      "Comment Color": "255,255,255",
-      "Error Color": "255,255,255",
-      "Find Selection Background Color": "255,255,255",
-      "Keyword Color": "255,255,255",
-      "Matching Word Background Color": "255,255,255",
-      "Number Color": "255,255,255",
-      "Operator Color": "255,255,255",
-      "Preprocessor Color": "255,255,255",
-      "Selection Background Color": "255,255,255",
-      "Selection Color": "255,255,255",
-      "String Color": "255,255,255",
-      "Text Color": "255,255,255",
-      "Warning Color": "255,255,255"
+      "Background Color": "40,50,55",
+      "Built-in Function Color": "0,200,200",
+      "Comment Color": "120,140,155",
+      "Error Color": "220,50,50",
+      "Find Selection Background Color": "125,155,165",
+      "Keyword Color": "235,65,120",
+      "Matching Word Background Color": "226,230,214",
+      "Number Color": "5,155,230",
+      "Operator Color": "0,140,120",
+      "Preprocessor Color": "127,0,0",
+      "Selection Background Color": "125,155,165",
+      "Selection Color": "160,198,211",
+      "String Color": "0,140,120",
+      "Text Color": "150,150,150",
+      "Warning Color": "125,155,165"
     },
     "Photos": {
       "MainPhoto": "rbxassetid://12345",
@@ -27,6 +27,36 @@
       "Creator": "Kodran",
       "AddedOn": "8/11/2017",
       "Rating": "Reminds me of the ocean. 5/5"
+    }
+  },
+"Jacob's Theme": {
+    "Colors": {
+      "Background Color": "50,50,50",
+      "Built-in Function Color": "0,156,191",
+      "Comment Color": "175,175,175",
+      "Error Color": "255,0,0",
+      "Find Selection Background Color": "246,185,63",
+      "Keyword Color": "155,205,254",
+      "Matching Word Background Color": "226,230,214",
+      "Number Color": "169,228,0",
+      "Operator Color": "110,161,241",
+      "Preprocessor Color": "127,0,0",
+      "Selection Background Color": "230,154,76",
+      "Selection Color": "255,255,255",
+      "String Color": "230,154,76",
+      "Text Color": "230,230,230",
+      "Warning Color": "0,0,255"
+    },
+    "Photos": {
+      "MainPhoto": "rbxassetid://12345",
+      "Photo1": "rbxassetid://12346",
+      "Photo2": "rbxassetid://12347"
+    },
+    "Info": {
+      "Name": "Jacob's Theme",
+      "Creator": "peacefiltyler101",
+      "AddedOn": "8/11/2017",
+      "Rating": "what can I say? It's my own theme."
     }
   }
 }
