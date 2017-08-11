@@ -1,0 +1,32 @@
+{
+  "Kodran's Theme": {
+    "Colors": {
+      "Background Color": "255,255,255",
+      "Built-in Function Color": "255,255,255",
+      "Comment Color": "255,255,255",
+      "Error Color": "255,255,255",
+      "Find Selection Background Color": "255,255,255",
+      "Keyword Color": "255,255,255",
+      "Matching Word Background Color": "255,255,255",
+      "Number Color": "255,255,255",
+      "Operator Color": "255,255,255",
+      "Preprocessor Color": "255,255,255",
+      "Selection Background Color": "255,255,255",
+      "Selection Color": "255,255,255",
+      "String Color": "255,255,255",
+      "Text Color": "255,255,255",
+      "Warning Color": "255,255,255"
+    },
+    "Photos": {
+      "MainPhoto": "rbxassetid://12345",
+      "Photo1": "rbxassetid://12346",
+      "Photo2": "rbxassetid://12347"
+    },
+    "Info": {
+      "Name": "Kodran's Theme",
+      "Creator": "Kodran",
+      "AddedOn": "8/11/2017",
+      "Rating": "Reminds me of the ocean. 5/5"
+    }
+  }
+}
