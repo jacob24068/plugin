@@ -26,7 +26,7 @@
       "Name": "Kodran's Theme",
       "Creator": "Kodran",
       "AddedOn": "8/11/2017",
-      "Rating": "Reminds me of the ocean. 5/5"
+      "Rating": "reminds me of the ocean."
     }
   },
   "Jacob's Theme": {
@@ -54,9 +54,177 @@
     },
     "Info": {
       "Name": "Jacob's Theme",
-      "Creator": "Me lol",
+      "Creator": "Me",
       "AddedOn": "2/23/2018",
       "Rating": "what can I say? It's my own theme."
+    }
+  },
+  "Visual Studio Dark": {
+    "Colors": {
+      "Background Color": "30, 30, 30",
+      "Built-in Function Color": "86, 156, 214",
+      "Comment Color": "85, 139, 58",
+      "Error Color": "222, 65, 65",
+      "Find Selection Background Color": "97, 50, 20",
+      "Keyword Color": "86, 156, 214",
+      "Matching Word Background Color": "52, 58, 64",
+      "Number Color": "181, 206, 168",
+      "Operator Color": "200, 206, 200",
+      "Preprocessor Color": "0, 0, 0",
+      "Selection Background Color": "38, 79, 120",
+      "Selection Color": "200, 212, 177",
+      "String Color": "206, 116, 58",
+      "Text Color": "200, 212, 177",
+      "Warning Color": "75, 152, 75"
+    },
+    "Photos": {
+      "MainPhoto": "rbxassetid://1"
+    },
+    "Info": {
+      "Name": "Visual Studio Dark",
+      "Creator": "Microsoft",
+      "AddedOn": "2/24/2018",
+      "Rating": "a really nice dark theme."
+    }
+  },
+  "Visual Studio Dark+": {
+    "Colors": {
+      "Background Color": "30, 30, 30",
+      "Built-in Function Color": "52, 140, 214",
+      "Comment Color": "85, 139, 58",
+      "Error Color": "226, 67, 67",
+      "Find Selection Background Color": "97, 50, 20",
+      "Keyword Color": "52, 140, 214",
+      "Matching Word Background Color": "52, 58, 64",
+      "Number Color": "181, 206, 168",
+      "Operator Color": "194, 200, 206",
+      "Preprocessor Color": "0, 0, 0",
+      "Selection Background Color": "38, 79, 120",
+      "Selection Color": "200, 212, 177",
+      "String Color": "195, 145, 91",
+      "Text Color": "200, 212, 177",
+      "Warning Color": "75, 152, 75"
+    },
+    "Photos": {
+      "MainPhoto": "rbxassetid://1450915416"
+    },
+    "Info": {
+      "Name": "Visual Studio Dark+",
+      "Creator": "Microsoft",
+      "AddedOn": "2/24/2018",
+      "Rating": "a really nice dark theme, changes a few things from the other vs dark."
+    }
+  },
+  "Monokai": {
+    "Colors": {
+      "Background Color": "39, 40, 34",
+      "Built-in Function Color": "161, 129, 220",
+      "Comment Color": "117, 90, 49",
+      "Error Color": "226, 67, 67",
+      "Find Selection Background Color": "103, 57, 23",
+      "Keyword Color": "161, 129, 220",
+      "Matching Word Background Color": "62, 65, 65",
+      "Number Color": "161, 117, 199",
+      "Operator Color": "235, 39, 56",
+      "Preprocessor Color": "0, 0, 0",
+      "Selection Background Color": "87, 90, 90",
+      "Selection Color": "234, 248, 242",
+      "String Color": "230, 219, 116",
+      "Text Color": "234, 248, 242",
+      "Warning Color": "75, 152, 75"
+    },
+    "Photos": {
+      "MainPhoto": "rbxassetid://1450915416"
+    },
+    "Info": {
+      "Name": "Monokai",
+      "Creator": "Unknown",
+      "AddedOn": "2/24/2018",
+      "Rating": "it's an interesting theme, but it isn't easy on the eyes, atleast my eye."
+    }
+  },
+  "Monokai Dimmed": {
+    "Colors": {
+      "Background Color": "30, 30, 30",
+      "Built-in Function Color": "56, 128, 103",
+      "Comment Color": "154, 155, 153",
+      "Error Color": "226, 67, 67",
+      "Find Selection Background Color": "97, 50, 20",
+      "Keyword Color": "56, 128, 103",
+      "Matching Word Background Color": "58, 60, 63",
+      "Number Color": "96, 137, 180",
+      "Operator Color": "103, 104, 103",
+      "Preprocessor Color": "0, 0, 0",
+      "Selection Background Color": "67, 69, 72",
+      "Selection Color": "186, 200, 192",
+      "String Color": "154, 168, 58",
+      "Text Color": "186, 200, 192",
+      "Warning Color": "75, 152, 75"
+    },
+    "Photos": {
+      "MainPhoto": "rbxassetid://1450915416"
+    },
+    "Info": {
+      "Name": "Monokai Dimmed",
+      "Creator": "Unknown",
+      "AddedOn": "2/24/2018",
+      "Rating": "alot easier on the eyes, i really like this theme.."
+    }
+  },
+  "Solarized Dark": {
+    "Colors": {
+      "Background Color": "0, 43, 54",
+      "Built-in Function Color": "181, 134, 15",
+      "Comment Color": "101, 123, 131",
+      "Error Color": "225, 67, 68",
+      "Find Selection Background Color": "77, 59, 36",
+      "Keyword Color": "181, 134, 15",
+      "Matching Word Background Color": "0, 74, 92",
+      "Number Color": "211, 54, 130",
+      "Operator Color": "133, 153, 0",
+      "Preprocessor Color": "0, 0, 0",
+      "Selection Background Color": "7, 54, 66",
+      "Selection Color": "187, 187, 187",
+      "String Color": "42, 161, 152",
+      "Text Color": "187, 187, 187",
+      "Warning Color": "74, 152, 76"
+    },
+    "Photos": {
+      "MainPhoto": "rbxassetid://1450915416"
+    },
+    "Info": {
+      "Name": "Solarized Dark",
+      "Creator": "Unknown",
+      "AddedOn": "2/24/2018",
+      "Rating": "really really blue. takes a bit to get used to, but after that it's nice.."
+    }
+  },
+  "Visual Studio Light": {
+    "Colors": {
+      "Background Color": "255, 255, 255",
+      "Built-in Function Color": "23, 39, 255",
+      "Comment Color": "0, 128, 0",
+      "Error Color": "215, 17, 17",
+      "Find Selection Background Color": "248, 201, 171",
+      "Keyword Color": "23, 39, 255",
+      "Matching Word Background Color": "230, 243, 255",
+      "Number Color": "9, 136, 90",
+      "Operator Color": "0, 0, 0",
+      "Preprocessor Color": "0, 0, 0",
+      "Selection Background Color": "173, 214, 255",
+      "Selection Color": "0, 23, 39",
+      "String Color": "163, 21, 21",
+      "Text Color": "0, 23, 39",
+      "Warning Color": "51, 139, 51"
+    },
+    "Photos": {
+      "MainPhoto": "rbxassetid://1450915416"
+    },
+    "Info": {
+      "Name": "Visual Studio Light",
+      "Creator": "Microsoft",
+      "AddedOn": "2/24/2018",
+      "Rating": "blinds me, but i think someone will make use of this."
     }
   }
 }
